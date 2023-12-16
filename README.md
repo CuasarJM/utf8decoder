@@ -4,7 +4,7 @@ An utf8 decoder functionality to transform encoded paragraphs to human readable 
 What can you do with this code? 
 Function 'create_dictionary()' maps from information facilitated by utf8-chartable.de to a programmatic dictionary ready to be used in Python implementations. 
 
-Using this dictionary, using a function from re such as re.sub, you can provide the text_transform function to create a relational mapping from a non-readable text to human readable text. 
+With this dictionary, using a function from re such as re.sub, you can provide the text_transform function to create a relational mapping from a non-readable text to human readable text. 
 
 Example: 
 
